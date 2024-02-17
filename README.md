@@ -10,9 +10,9 @@ Fresh React.js & Next.js web developer with a solid foundation in designing and 
 * ✉️  You can contact me at [abdelrahman.dawood.265@gmail.com](mailto:abdelrahman.dawood.265@gmail.com)
 * 🚀  I'm currently working on [Restaurant app](http://github.com/Abdelrahman-Reda-Dawood/React-Restaurant-App)
 * 🧠  I'm learning Next.Js 14,
-* ⚡  I love writing code 💻
+* ⚡  I enjoy coding 💻
 
-### Skills
+### Skillsc
 
 
 <p align="left">
